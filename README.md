@@ -1,8 +1,8 @@
 # i3blocks-config
 This is my default i3blocks configuration.
-![Thumbnail1](resources/i3blocks-thumbnail-5.png)
+![Thumbnail1](Pictures/bar.png)
 <br/>
-![Thumbnail2](resources/i3blocks-thumbnail-6.png)
+![Thumbnail2](Pictures/bar-zoomed.png)
 ***
 
 <h2> Standard installation: </h2>
@@ -63,9 +63,9 @@ If you want to modify the weather location data, take a look into [config/i3bloc
 
 <h3>Thumbnail:</h3>
 
-![Thumbnail1](resources/i3blocks-thumbnail-5.png)
+![Thumbnail1](Pictures/bar.png)
 <br/>
-![Thumbnail2](resources/i3blocks-thumbnail-6.png)
+![Thumbnail2](Pictures/bar-zoomed.png)
 ***
 
 <h2>Requiered software packages.</h2>
